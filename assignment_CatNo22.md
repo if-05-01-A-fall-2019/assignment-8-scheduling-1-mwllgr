@@ -7,6 +7,9 @@ The goal of this week's assignment is to make you familiar with basic terms and 
 ## Required Tasks
 Answer the following questions
 
+1. **Scheduling -- Process Selection**
+If a process A is waiting for something it starts blocking: If another process (let's call it B) has to finish to let A finish the task, it wouldn't be bad if we execute B before any other process with a lower priority.
+
 2. **Minimizing Turn Around Time**
 Reordered process list:
 
